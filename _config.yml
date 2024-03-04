@@ -1,19 +1,4 @@
-# WhatATheme
-markdown: kramdown
-
-# URL of the Site
-url: 'https://zzz032.github.io'
-# Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: 
-
-# Title of the Site
-title: Yuelang's resume
-# Description of the Site
-description: This is Yuelang's resume
-# URL of Image of the Site
-site-image: /WhatATheme/assets/images/meta.jpg
-# Keywords of the Site
-site-keywords: Site, Template, Theme
-# URL for the Image of custom Favicon
-favicon-url: 
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 
