@@ -2,7 +2,7 @@
 
 - **Contact Number:** 431-557-9666
 - **Email:** zha101@myumanitoba.ca
-- **Github:** [Zzz032](https://zzz032.github.io/)
+- **Github:** [Zzz032](https://github.com/Zzz032)
 
 ## Education
 
@@ -15,11 +15,15 @@
 
 ## Project Experience
 
-### Group Android Software Project Development (Team Member)
+### Group Android Software Project Development (Team Leader)
+
+- **January 2024 - April 2024**
 
 - **Project:** Currently developing a Finance Android application (tracking daily expenses, income, and performing financial loan calculations).
 
 ### Group SQL Project Development (Team Leader)
+
+- **September 2022 - December 2022**
 
 - **Project:** Data integration and extraction using SQL and Java, with Java as the interface for display.
 
@@ -38,11 +42,6 @@
 ### Personal R Language Project Development
 
 - **Project:** Chart processing and calculation using R.
-
-### Project Timeline
-
-- **January 2024 - April 2024**
-- **September 2022 - December 2022**
 
 ## Skills
 
