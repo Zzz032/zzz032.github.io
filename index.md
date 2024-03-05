@@ -33,19 +33,19 @@ Group SQL Project Development (Team Leader)
 
 - **Project:** Data integration and extraction using SQL and Java, with Java as the interface for display.
 
-### Personal Java Project Development
+Personal Java Project Development
 
 - **Project:** Examples include a hotel registration system, complex calculation development, data management.
 
-### Personal AI Project Development
+Personal AI Project Development
 
 - **Project:** Pathfinding with Prolog for the farmer crossing the river problem, and creating an AI "Connect 4" board game.
 
-### Personal C++ Graphics Project Development
+Personal C++ Graphics Project Development
 
 - **Project:** 2D and 3D graphic creation with C++, integrating various shapes to create scenes.
 
-### Personal R Language Project Development
+Personal R Language Project Development
 
 - **Project:** Chart processing and calculation using R.
 
@@ -60,7 +60,7 @@ Group SQL Project Development (Team Leader)
 
 ## Work Experience
 
-### TOOGO TRAVEL
+TOOGO TRAVEL
 
 - **Position:** Data query and organization.
 - **Software Used:** Amadeus Selling Platform.
