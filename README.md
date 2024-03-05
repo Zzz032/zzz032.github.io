@@ -24,7 +24,7 @@ This README outlines the practical steps for hosting and formatting a resume on 
   - [Jekyll](#jekyll)
   - [More Resources](#more-resources)
   - [Authors and Acknowledgements](#authors-and-acknowledgements)
-- [Technical writing](#technical-writing)
+  - [Technical writing](#technical-writing)
     - [Use Plain Language](#use-plain-language)
     - [Write for the Web](#write-for-the-web)
     - [Use a Minimalist Approach](#use-a-minimalist-approach)
@@ -83,7 +83,7 @@ This README outlines the practical steps for hosting and formatting a resume on 
 - **Author:** Yuelang Zhang
 - **Acknowledgements:** Thanks to resources and mentors for guidance.
 
-# Technical writing
+## Technical writing
 
 ### Use Plain Language
 
