@@ -17,7 +17,7 @@
 
 **.devHacks [G3 Hack Challenge Participation](https://github.com/devhacks-2024/I-O-Tech-Repository?tab=readme-ov-file)**
 
-- **February 23rd to 24th (5:00 PM - 5:00 PM)**
+- **February 23rd to 24th 2024**
 
 - **Project:** Participated in the .devHacks G3 Hack Challenge, a 24-hour coding event focused on building a website from scratch.
 
