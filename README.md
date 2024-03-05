@@ -65,14 +65,15 @@ This README outlines the practical steps for hosting and formatting a resume on 
 ## More Resources
 
 - [Markdown Tutorial](https://www.markdowntutorial.com/)
-- [GitHub Pages Documentation](https://docs.github.com/en/pages)
-- [Jekyll Themes for GitHub Pages](https://jekyllthemes.io/github-pages-themes)
+- [GitHub Docs: Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [Jekyll Themes for GitHub Pages](https://pages.github.com/themes/)
 - [Etter's *Modern Technical Writing*](https://www.amazon.com/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
+- [Markdown Guide](https://www.markdownguide.org/getting-started/)
 
 ## Authors and Acknowledgements
 
 - **Author:** Yuelang Zhang
-- **Acknowledgements:** Thanks to peers and mentors for guidance and feedback.
+- **Acknowledgements:** Thanks to resources and mentors for guidance.
 
 ## FAQs
 
