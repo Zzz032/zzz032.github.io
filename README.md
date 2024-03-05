@@ -21,6 +21,7 @@ This README outlines the practical steps for hosting and formatting a resume on 
     - [1. Create a GitHub Repository](#1-create-a-github-repository)
     - [2. Add Resume to the Repository](#2-add-resume-to-the-repository)
     - [3. Enable GitHub Pages](#3-enable-github-pages)
+  - [Jekyll](#jekyll)
   - [More Resources](#more-resources)
   - [Authors and Acknowledgements](#authors-and-acknowledgements)
   - [FAQs](#faqs)
@@ -48,6 +49,17 @@ This README outlines the practical steps for hosting and formatting a resume on 
 1. In my repository settings, find the "Pages" section.
 2. Select my main branch as the source.
 3. Save, and my resume is now live at `https://username.github.io`.
+
+
+## Jekyll
+
+1. go to [website](https://pages.github.com/themes/) choose one theme
+   
+2. in the theme there will be a usage of this theme
+   
+3. copy this usage to the `_config.yml` file
+   
+4. and try to run your github page website 
 
 
 ## More Resources
