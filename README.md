@@ -24,6 +24,14 @@ This README outlines the practical steps for hosting and formatting a resume on 
   - [Jekyll](#jekyll)
   - [More Resources](#more-resources)
   - [Authors and Acknowledgements](#authors-and-acknowledgements)
+- [Technical writing](#technical-writing)
+    - [Use Plain Language](#use-plain-language)
+    - [Write for the Web](#write-for-the-web)
+    - [Use a Minimalist Approach](#use-a-minimalist-approach)
+    - [Use a Structured Approach](#use-a-structured-approach)
+    - [Use a Version Control System](#use-a-version-control-system)
+    - [Write in Markdown](#write-in-markdown)
+    - [Use Screenshots and Diagrams](#use-screenshots-and-diagrams)
   - [FAQs](#faqs)
 
 
@@ -59,7 +67,7 @@ This README outlines the practical steps for hosting and formatting a resume on 
    
 3. copy this usage to the `_config.yml` file
    
-4. and try to run your github page website 
+4. and try to run the github page website 
 
 
 ## More Resources
@@ -74,6 +82,52 @@ This README outlines the practical steps for hosting and formatting a resume on 
 
 - **Author:** Yuelang Zhang
 - **Acknowledgements:** Thanks to resources and mentors for guidance.
+
+# Technical writing
+
+### Use Plain Language
+
+**Before**: "Utilize lightweight tools and distributed version control systems, as Etter recommends."
+
+**After**: "Use simple tools and share the work online with tools like GitHub, as suggested by Andrew Etter."
+
+### Write for the Web
+
+- **Organize the content** into short, digestible sections.
+- **Use bullet points** for lists, like in my "Prerequisites" section, to keep information clear and easy to scan.
+
+### Use a Minimalist Approach
+
+**Before**: "Sign into GitHub and click the '+' icon at the top right to select 'New Repository'."
+
+**After**: "Sign into GitHub, click '+', and choose 'New Repository'."
+
+### Use a Structured Approach
+
+- **Break down instructions** into numbered steps to guide readers through the process in an organized manner.
+- **Clearly label sections** like "Instructions," "More Resources," and "FAQs" to help readers navigate to the information they need.
+
+### Use a Version Control System
+
+- Mention the **importance of using GitHub** for version control in the instructions, highlighting how it helps keep the resume updated.
+
+### Write in Markdown
+
+- Emphasize the **benefits of Markdown** for creating resume, noting its simplicity and versatility.
+
+### Use Screenshots and Diagrams
+
+- Include **screenshots** or **animated GIFs** to visually guide users through the steps, such as creating a repository, adding a resume file, and enabling GitHub Pages.
+
+Applying these principles, README becomes more accessible, user-friendly, and effective in conveying the necessary steps to host and format a resume on GitHub Pages. Here's how a section could be improved:
+
+**Before**: 
+"Clone my new repository to my local machine using Git. Add my Markdown-formatted resume (`index.md`) to the repository. Commit and push the changes back to GitHub."
+
+**After**: 
+"1. **Clone repository**: Use Git to copy my repository to my computer. 
+1. **Add the resume**: Put `index.md` resume file in the repository.
+2. **Update GitHub**: Save the changes and upload them back to GitHub."
 
 ## FAQs
 
