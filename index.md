@@ -6,7 +6,7 @@
 
 ## Education
 
-### University of Manitoba
+University of Manitoba
 
 - **Major:** Computer Science
 - **Minor:** Mathematics
@@ -15,19 +15,19 @@
 
 ## Project Experience
 
-### .devHacks [G3 Hack Challenge Participation](https://github.com/devhacks-2024/I-O-Tech-Repository?tab=readme-ov-file)
+.devHacks [G3 Hack Challenge Participation](https://github.com/devhacks-2024/I-O-Tech-Repository?tab=readme-ov-file)
 
 - **February 23rd to 24th (5:00 PM - 5:00 PM)**
 
 - **Project:** Participated in the .devHacks G3 Hack Challenge, a 24-hour coding event focused on building a website from scratch.
 
-### Group Android Software Project Development (Team Leader)
+Group Android Software Project Development (Team Leader)
 
 - **January 2024 - April 2024**
 
 - **Project:** Currently developing a Finance Android application (tracking daily expenses, income, and performing financial loan calculations).
 
-### Group SQL Project Development (Team Leader)
+Group SQL Project Development (Team Leader)
 
 - **September 2022 - December 2022**
 
