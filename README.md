@@ -3,7 +3,7 @@
 ## Purpose
 
 This README outlines the practical steps for hosting and formatting a resume on GitHub Pages, demonstrating these processes in line with the principles of current Technical Writing as outlined by Andrew Etter in his book *Modern Technical Writing*.
-[resume](Gifs/resume.gif)
+[resume](GIF/resume.gif)
 
 ## Prerequisites
 
