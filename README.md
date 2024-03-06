@@ -44,12 +44,15 @@ This README outlines the practical steps for hosting and formatting a resume on 
 
 1. Sign into GitHub and click the '+' icon at the top right to select 'New Repository'.
 2. Name my repository `username.github.io`, replacing `username` with my GitHub username.
+![New Repository](GIF/newrepository.gif)
 3. Set the repository to Public and initialize it with a README.
+![public](GIF/public.png)
 
 
 ### 2. Add Resume to the Repository
 
 1. Clone my new repository to my local machine using Git.
+![github](GIF/github.png)
 2. Add my Markdown-formatted resume (`index.md`) to the repository.
 3. Commit and push the changes back to GitHub.
 
