@@ -55,6 +55,7 @@ This README outlines the practical steps for hosting and formatting a resume on 
 ![github](GIF/github.png)
 2. Add my Markdown-formatted resume (`index.md`) to the repository.
 3. Commit and push the changes back to GitHub.
+![push](GIF/push.png)
 
 ### 3. Enable GitHub Pages
 
