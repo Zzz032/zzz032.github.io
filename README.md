@@ -10,6 +10,7 @@ This README outlines the practical steps for hosting and formatting a resume on 
 1. A [resume](https://github.com/Zzz032/zzz032.github.io/blob/main/index.md) formatted in Markdown 
 2. A GitHub account, such like that [my account](https://github.com/Zzz032).
 3. Familiarity with Markdown. and this is the [Markdown Tutorial](https://www.markdowntutorial.com/).
+4. The Visual Studio Code, if you have never use this one, u can download it [here](https://code.visualstudio.com/)
 
 
 ## Contents
