@@ -8,7 +8,7 @@ This README outlines the practical steps for hosting and formatting a resume on 
 ## Prerequisites
 
 1. A [resume](https://github.com/Zzz032/zzz032.github.io/blob/main/index.md) formatted in Markdown 
-2. A GitHub account, such like that [my account](https://github.com/Zzz032).
+2. A GitHub account, such like that [my account](https://github.com/Zzz032) and [Github Desktop](https://desktop.github.com/)
 3. Familiarity with Markdown. and this is the [Markdown Tutorial](https://www.markdowntutorial.com/).
 4. The Visual Studio Code, if you have never use this one, you can download it [here](https://code.visualstudio.com/)
 
@@ -43,8 +43,9 @@ This README outlines the practical steps for hosting and formatting a resume on 
 **Relating to Etter's Principles**: Utilize lightweight tools and distributed version control systems, as Etter recommends.
 
 1. Sign into GitHub and click the '+' icon at the top right to select 'New Repository'.
-2. Name my repository `username.github.io`, replacing `username` with my GitHub username.
 ![New Repository](GIF/newrepository.gif)
+2. Name my repository `username.github.io`, replacing `username` with my GitHub username.
+![username](GIF/username.png)
 3. Set the repository to Public and initialize it with a README.
 ![public](GIF/public.png)
 
@@ -62,31 +63,24 @@ This README outlines the practical steps for hosting and formatting a resume on 
 1. In my repository settings, find the "Pages" section.
 2. Select my main branch as the source.
 3. Save, and my resume is now live at `https://username.github.io`.
+![page](GIF/page.png)
 
 
 ## Jekyll
 
 1. go to [website](https://pages.github.com/themes/) choose one theme
+![theme](GIF/theme.png)
    
 2. in the theme there will be a usage of this theme
+![usage](GIF/usage.png)
    
 3. copy this usage to the `_config.yml` file
-   
+![yml](GIF/yml.png)  
+
 4. and try to run the github page website 
 
 
-## More Resources
 
-- [Markdown Tutorial](https://www.markdowntutorial.com/)
-- [GitHub Docs: Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-- [Jekyll Themes for GitHub Pages](https://pages.github.com/themes/)
-- [Etter's *Modern Technical Writing*](https://www.amazon.com/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
-- [Markdown Guide](https://www.markdownguide.org/getting-started/)
-
-## Authors and Acknowledgements
-
-- **Author:** Yuelang Zhang
-- **Acknowledgements:** Thanks to resources and mentors for guidance.
 
 ## Technical writing
 
@@ -124,6 +118,7 @@ This README outlines the practical steps for hosting and formatting a resume on 
 
 - Include **screenshots** or **animated GIFs** to visually guide users through the steps, such as creating a repository, adding a resume file, and enabling GitHub Pages.
 
+
 Applying these principles, README becomes more accessible, user-friendly, and effective in conveying the necessary steps to host and format a resume on GitHub Pages. Here's how a section could be improved:
 
 **Before**: 
@@ -141,3 +136,17 @@ Markdown is preferred for its simplicity, portability, and version control frien
 
 **Why isn't my resume appearing on GitHub Pages?**
 Ensure the repository is named correctly (`username.github.io`), and GitHub Pages is enabled in my repository settings. It may take a few minutes for changes to go live.
+
+## More Resources
+
+- [Markdown Tutorial](https://www.markdowntutorial.com/)
+- [GitHub Docs: Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [Jekyll Themes for GitHub Pages](https://pages.github.com/themes/)
+- [Etter's *Modern Technical Writing*](https://www.amazon.com/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
+- [Markdown Guide](https://www.markdownguide.org/getting-started/)
+
+
+## Authors and Acknowledgements
+
+- **Author:** Yuelang Zhang
+- **Acknowledgements:** Thanks to resources and mentors for guidance.
