@@ -8,7 +8,7 @@ This README outlines the practical steps for hosting and formatting a resume on 
 ## Prerequisites
 
 1. A [resume](https://github.com/Zzz032/zzz032.github.io/blob/main/index.md) formatted in Markdown 
-2. A GitHub account, such like that [my account](https://github.com/Zzz032) and [Github Desktop](https://desktop.github.com/)
+2. A GitHub account, such like that [my account](https://github.com/Zzz032) and also need a [Github Desktop](https://desktop.github.com/).
 3. Familiarity with Markdown. and this is the [Markdown Tutorial](https://www.markdowntutorial.com/).
 4. The Visual Studio Code, if you have never use this one, you can download it [here](https://code.visualstudio.com/)
 
@@ -23,8 +23,6 @@ This README outlines the practical steps for hosting and formatting a resume on 
     - [2. Add Resume to the Repository](#2-add-resume-to-the-repository)
     - [3. Enable GitHub Pages](#3-enable-github-pages)
   - [Jekyll](#jekyll)
-  - [More Resources](#more-resources)
-  - [Authors and Acknowledgements](#authors-and-acknowledgements)
   - [Technical writing](#technical-writing)
     - [Use Plain Language](#use-plain-language)
     - [Write for the Web](#write-for-the-web)
@@ -34,6 +32,8 @@ This README outlines the practical steps for hosting and formatting a resume on 
     - [Write in Markdown](#write-in-markdown)
     - [Use Screenshots and Diagrams](#use-screenshots-and-diagrams)
   - [FAQs](#faqs)
+  - [More Resources](#more-resources)
+  - [Authors and Acknowledgements](#authors-and-acknowledgements)
 
 
 ## Instructions
