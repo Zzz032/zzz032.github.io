@@ -21,9 +21,8 @@ This README outlines the practical steps for hosting and formatting a resume on 
   - [Instructions](#instructions)
     - [1. Create a GitHub Repository](#1-create-a-github-repository)
     - [2. Add Resume to the Repository](#2-add-resume-to-the-repository)
-    - [3. Enable GitHub Pages](#3-enable-github-pages)
-  - [Jekyll](#jekyll)
-  - [Try-it](#try-it)
+    - [3. Jekyll](#3-jekyll)
+    - [4. Enable GitHub Pages](#4-enable-github-pages)
   - [Technical writing](#technical-writing)
   - [FAQs](#faqs)
   - [More Resources](#more-resources)
@@ -69,17 +68,9 @@ This README outlines the practical steps for hosting and formatting a resume on 
 1.  Right now, we can push the index.md (resume) to the Github
 ![push](GIF/push.png)
 
-### 3. Enable GitHub Pages
-
-1. On the top Github page, select the `setting` button
-![setting](GIF/Setting.png)
-2. In my repository settings, find the "Pages" section.
-3. Select my main branch as the source.
-4. Save, and my resume is now live at `https://username.github.io`.
-![page](GIF/page.png)
 
 
-## Jekyll
+### 3. Jekyll
 
 1. go to [website](https://pages.github.com/themes/) choose one theme
 ![theme](GIF/theme.png)
@@ -98,11 +89,14 @@ This README outlines the practical steps for hosting and formatting a resume on 
 ![yml](GIF/yml.png)  
 8. Following the 8-10 steps in [2. Add Resume to the Repository](#2-add-resume-to-the-repository) to push this `_config.yml` file into Github
 
-## Try-it
+### 4. Enable GitHub Pages
 
-1. Wait a few minutes for the website to load
-2. Open your browser and go to your `username.github.io` website
-3. It will shows your resume
+1. On the top Github page, select the `setting` button
+![setting](GIF/Setting.png)
+2. In my repository settings, find the "Pages" section.
+3. Select my main branch as the source.
+4. Save, and my resume is now live at `https://username.github.io`.
+![page](GIF/page.png)
 
 
 ## Technical writing
