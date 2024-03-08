@@ -39,7 +39,7 @@ This README outlines the practical steps for hosting and formatting a resume on 
 ![New Repository](GIF/newrepository.gif)
 2. Name my repository `username.github.io`, replacing `username` with my GitHub username.
 ![username](GIF/username.png)
-1. Set the repository to Public
+3. Set the repository to Public
 ![public](GIF/public.png)
 
 
@@ -69,7 +69,6 @@ This README outlines the practical steps for hosting and formatting a resume on 
 ![push](GIF/push.png)
 
 
-
 ### 3. Jekyll
 
 1. go to [website](https://pages.github.com/themes/) choose one theme
@@ -95,8 +94,8 @@ This README outlines the practical steps for hosting and formatting a resume on 
 ![setting](GIF/Setting.png)
 2. In my repository settings, find the "Pages" section.
 3. Select my main branch as the source.
-4. Save, and my resume is now live at `https://username.github.io`.
 ![page](GIF/page.png)
+4. Save, and my resume is now live at `https://username.github.io`.
 
 
 ## Technical writing
