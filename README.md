@@ -66,7 +66,7 @@ This README outlines the practical steps for hosting and formatting a resume on 
 ![save](GIF/save.png)
 9. Back to Github Desktop, let us click the commit button.
 ![commit](GIF/commit.png)
-10. 
+10. Right now, we can push the index.md (resume) to the Github
 ![push](GIF/push.png)
 
 ### 3. Enable GitHub Pages
