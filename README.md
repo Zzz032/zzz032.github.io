@@ -23,6 +23,7 @@ This README outlines the practical steps for hosting and formatting a resume on 
     - [2. Add Resume to the Repository](#2-add-resume-to-the-repository)
     - [3. Enable GitHub Pages](#3-enable-github-pages)
   - [Jekyll](#jekyll)
+  - [Try-it](#try-it)
   - [Technical writing](#technical-writing)
   - [FAQs](#faqs)
   - [More Resources](#more-resources)
@@ -57,7 +58,6 @@ This README outlines the practical steps for hosting and formatting a resume on 
 
 ![refresh](GIF/refresh.png)
 
-
 6. Open in Visual Studio Code
 ![github](GIF/github.png)
 7. Add my Markdown-formatted resume (`index.md`) to the repository(under the EXPLORER).
@@ -71,9 +71,11 @@ This README outlines the practical steps for hosting and formatting a resume on 
 
 ### 3. Enable GitHub Pages
 
-1. In my repository settings, find the "Pages" section.
-2. Select my main branch as the source.
-3. Save, and my resume is now live at `https://username.github.io`.
+1. On the top Github page, select the `setting` button
+![setting](GIF/Setting.png)
+2. In my repository settings, find the "Pages" section.
+3. Select my main branch as the source.
+4. Save, and my resume is now live at `https://username.github.io`.
 ![page](GIF/page.png)
 
 
@@ -84,13 +86,23 @@ This README outlines the practical steps for hosting and formatting a resume on 
    
 2. in the theme there will be a usage of this theme
 ![usage](GIF/usage.png)
-   
-3. copy this usage to the `_config.yml` file
+
+3. Following the 1-6 steps in [2. Add Resume to the Repository](#2-add-resume-to-the-repository)
+
+4. In the Visual Studio Code, Right-click on the empty space below the EXPLORER and select the `New File`
+![newfile](GIF/newfile.png)
+5. Name the new file `_config.yml`
+![file](GIF/file.png)
+6. Open this file
+7. copy the usage to the `_config.yml` file
 ![yml](GIF/yml.png)  
+8. Following the 8-10 steps in [2. Add Resume to the Repository](#2-add-resume-to-the-repository) to push this `_config.yml` file into Github
 
-4. and try to run the github page website 
+## Try-it
 
-
+1. Wait a few minutes for the website to load
+2. Open your browser and go to your `username.github.io` website
+3. It will shows your resume
 
 
 ## Technical writing
@@ -134,4 +146,5 @@ Ensure the repository is named correctly (`username.github.io`), and GitHub Page
 ## Authors and Acknowledgements
 
 - **Author:** Yuelang Zhang
-- **Acknowledgements:** Thanks to resources and mentors for guidance.
+- **Acknowledgement 1:** Thanks to resources and mentors for guidance.
+- **Acknowledgement 2:** Thanks to mattgraham for the Github Jekyll theme!
