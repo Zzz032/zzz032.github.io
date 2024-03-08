@@ -50,11 +50,11 @@ This README outlines the practical steps for hosting and formatting a resume on 
 
 ![signin](GIF/signin.png)
 
-3. Clone the new repository
+1. Clone the repository.
 ![clone](GIF/clone.png)
-4. Select the the new repository that your just created clone it
+1. Select the the new repository that your just created clone it.
 ![clone2](GIF/clone2.png)
-5. Wait for the GitHub Desktop refreshing
+1. Wait for the GitHub Desktop refreshing.
 
 ![refresh](GIF/refresh.png)
 
