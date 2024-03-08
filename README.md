@@ -84,50 +84,24 @@ This README outlines the practical steps for hosting and formatting a resume on 
 
 ## Technical writing
 
-### Use Plain Language
+1. **Use a Lightweight Markup Language**: Lightweight markup languages, such as Markdown, are designed for simplicity and ease of use. They enable writers to format text without the overhead of traditional word processors. This approach benefits technical writing by:
 
-**Before**: "Utilize lightweight tools and distributed version control systems, as Etter recommends."
+   - **Simplicity**: Markdown's syntax is straightforward, making it easy to learn and use for both technical and non-technical users.
+   - **Portability**: Documents written in Markdown are plain text, ensuring compatibility across different platforms and devices.
+   - **Versatility**: Markdown files can be converted to various formats (e.g., HTML, PDF) using different tools, making it suitable for a wide range of documentation needs.
 
-**After**: "Use simple tools and share the work online with tools like GitHub, as suggested by Andrew Etter."
+2. **Format a Document with a Static Site Generator**: Static site generators, like Jekyll, transform plain text into static websites. This is particularly useful for technical documentation because:
 
-### Write for the Web
+   - **Theme Support**: Static site generators often support themes, allowing documentation to be presented in a visually appealing and consistent manner without requiring extensive web development skills.
+   - **Content Management**: They separate content from presentation, enabling writers to focus on writing while maintaining a professional layout and design.
+   - **Automation**: These tools automate website building and updating processes, streamlining the deployment and maintenance of documentation.
 
-- **Organize the content** into short, digestible sections.
-- **Use bullet points** for lists, like in my "Prerequisites" section, to keep information clear and easy to scan.
+3. **Share/Host Documents on a Distributed Version Control System**: Version control systems like Git, coupled with platforms like GitHub, offer a robust framework for hosting, sharing, and collaborating on documentation.
 
-### Use a Minimalist Approach
+   - **Collaboration**: They facilitate teamwork, allowing multiple contributors to work on documents simultaneously, propose changes, and review each other's contributions.
+   - **Version Tracking**: Version control systems keep a detailed history of changes, making it easy to track progress, revert mistakes, and understand document evolution over time.
+   - **Accessibility**: Hosting documents on platforms like GitHub Pages makes them accessible to a wide audience, ensuring that users can easily find and view the documentation.
 
-**Before**: "Sign into GitHub and click the '+' icon at the top right to select 'New Repository'."
-
-**After**: "Sign into GitHub, click '+', and choose 'New Repository'."
-
-### Use a Structured Approach
-
-- **Break down instructions** into numbered steps to guide readers through the process in an organized manner.
-- **Clearly label sections** like "Instructions," "More Resources," and "FAQs" to help readers navigate to the information they need.
-
-### Use a Version Control System
-
-- Mention the **importance of using GitHub** for version control in the instructions, highlighting how it helps keep the resume updated.
-
-### Write in Markdown
-
-- Emphasize the **benefits of Markdown** for creating resume, noting its simplicity and versatility.
-
-### Use Screenshots and Diagrams
-
-- Include **screenshots** or **animated GIFs** to visually guide users through the steps, such as creating a repository, adding a resume file, and enabling GitHub Pages.
-
-
-Applying these principles, README becomes more accessible, user-friendly, and effective in conveying the necessary steps to host and format a resume on GitHub Pages. Here's how a section could be improved:
-
-**Before**: 
-"Clone my new repository to my local machine using Git. Add my Markdown-formatted resume (`index.md`) to the repository. Commit and push the changes back to GitHub."
-
-**After**: 
-"1. **Clone repository**: Use Git to copy my repository to my computer. 
-1. **Add the resume**: Put `index.md` resume file in the repository.
-2. **Update GitHub**: Save the changes and upload them back to GitHub."
 
 ## FAQs
 
