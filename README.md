@@ -39,7 +39,7 @@ This README outlines the practical steps for hosting and formatting a resume on 
 ![New Repository](GIF/newrepository.gif)
 2. Name my repository `username.github.io`, replacing `username` with my GitHub username.
 ![username](GIF/username.png)
-3. Set the repository to Public and initialize it with a README.
+1. Set the repository to Public
 ![public](GIF/public.png)
 
 
@@ -49,11 +49,11 @@ This README outlines the practical steps for hosting and formatting a resume on 
 
 ![signin](GIF/signin.png)
 
-1. Clone the repository.
+3. Clone the repository.
 ![clone](GIF/clone.png)
-1. Select the the new repository that your just created clone it.
+4. Select the the new repository that your just created clone it.
 ![clone2](GIF/clone2.png)
-1. Wait for the GitHub Desktop refreshing.
+5. Wait for the GitHub Desktop refreshing.
 
 ![refresh](GIF/refresh.png)
 
@@ -63,9 +63,9 @@ This README outlines the practical steps for hosting and formatting a resume on 
 ![move](GIF/move.png)
 8. Choose the `File` and click the `Save All` button to save the change
 ![save](GIF/save.png)
-1. Back to Github Desktop, click the commit button.
+9. Back to Github Desktop, click the commit button.
 ![commit](GIF/commit.png)
-1.  Right now, we can push the index.md (resume) to the Github
+10.  Right now, we can push the index.md (resume) to the Github
 ![push](GIF/push.png)
 
 
