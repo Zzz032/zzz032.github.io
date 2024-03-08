@@ -44,10 +44,10 @@ This README outlines the practical steps for hosting and formatting a resume on 
 
 
 ### 2. Add Resume to the Repository
-
-1. Clone my new repository to my local machine using Git.
+1. Open the GitHub Desktop
+2. Clone my new repository to my local machine using Git.
 ![github](GIF/github.png)
-2. Add my Markdown-formatted resume (`index.md`) to the repository.
+. Add my Markdown-formatted resume (`index.md`) to the repository.
 3. Commit and push the changes back to GitHub.
 ![push](GIF/push.png)
 
