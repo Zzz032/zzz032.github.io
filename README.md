@@ -49,10 +49,19 @@ This README outlines the practical steps for hosting and formatting a resume on 
 
 ![signin](GIF/signin.png)
 
-3. Clone the new repository to my local machine using Git.
+3. Clone the new repository
+![clone](GIF/clone.png)
+4. Select the the new repository that your just created clone it
+![clone2](GIF/clone2.png)
+5. Wait for the GitHub Desktop refreshing
+
+![refresh](GIF/refresh.png)
+
+6. Open in Visual Studio Code
 ![github](GIF/github.png)
-. Add my Markdown-formatted resume (`index.md`) to the repository.
-1. Commit and push the changes back to GitHub.
+7. Add my Markdown-formatted resume (`index.md`) to the repository(under the EXPLORER).
+![move](GIF/move.png)
+8. Commit and push the changes back to GitHub.
 ![push](GIF/push.png)
 
 ### 3. Enable GitHub Pages
