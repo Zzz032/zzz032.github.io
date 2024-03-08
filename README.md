@@ -57,11 +57,16 @@ This README outlines the practical steps for hosting and formatting a resume on 
 
 ![refresh](GIF/refresh.png)
 
+
 6. Open in Visual Studio Code
 ![github](GIF/github.png)
 7. Add my Markdown-formatted resume (`index.md`) to the repository(under the EXPLORER).
 ![move](GIF/move.png)
-8. Commit and push the changes back to GitHub.
+8. Choose the `File` and click the `Save All` button to save the change
+![save](GIF/save.png)
+9. Back to Github Desktop, let us click the commit button.
+![commit](GIF/commit.png)
+10. 
 ![push](GIF/push.png)
 
 ### 3. Enable GitHub Pages
