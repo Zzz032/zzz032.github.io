@@ -9,7 +9,6 @@
 **University of Manitoba**
 
 - **Major:** Computer Science
-- **Minor:** Mathematics
 - **Faculty of Science - Undergraduate**
 - **Period:** September 2020 - September 2024
 
