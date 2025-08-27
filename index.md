@@ -3,6 +3,7 @@
 - **Contact Number:** 431-557-9666
 - **Email:** sydilf123@gmail.com
 - **Github:** [Zzz032](https://github.com/Zzz032)
+- **Wechat:** 15002434988
 
 ## Education
 
